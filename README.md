@@ -27,10 +27,5 @@ The dashboard includes:
 2. Use slicers to filter data by Category, Region, or Order Date.
 3. View interactive visualizations and track KPIs.
 
-## Screenshot
-
-![Dashboard Preview](./IMG-20250416-WA0000.jpg)
-
-## Author
 
 Created by Souvik Bhattacharjee  
