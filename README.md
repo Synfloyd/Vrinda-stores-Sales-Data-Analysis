@@ -1,4 +1,4 @@
-# Vrinda-stores-Sales-Data-Analysis (Exel Project)
+# Vrinda-stores-Sales-Data-Analysis (Excel Project)
 
 This project is a dynamic Sales Performance Dashboard built using Microsoft Excel. It provides key insights into revenue, profit, order volume, and unit sales across various product categories and regions.
 
